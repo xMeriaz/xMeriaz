@@ -1,5 +1,5 @@
-# Hi there , I'm Meriaz 
-![profile count](https://img.shields.io/github/followers/xMeriaz?label=follow&style=social)&nbsp;
+# Hi there , I'm Meriaz # Hi there , I'm Meriaz 
+![profile count](https://komarev.com/ghpvc/?username=xMeriaz&color=red)&nbsp;
 [![GitHub Meriaz](https://img.shields.io/github/followers/xMeriaz?label=follow&style=social)](https://github.com/ariscik)&nbsp;
 <a href="https://www.instagram.com/tlha.0/"><img src="https://img.shields.io/badge/@tlha.0-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
