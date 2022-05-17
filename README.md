@@ -1,6 +1,5 @@
 #Meriaz
 
-Merhabalar ben meriaz, depolarımı takip etmeni öneririm ahbap! :D
 
 <p align = "center">
   Benimle iletişime geçebileceğiniz platformlar:
